@@ -49,7 +49,7 @@ soyweb provides many executables, with most if not all of which sharing exactly
 the same CLI parameters:</p><ul><li><p>minifer</p><p>Minify a file or all files under a directory</p></li><li><p>ssg-minifer</p><p>Like ssg from ssg-go, but with minifer pipelines enabled</p></li><li><p>ssg-manifest</p><p>Reads JSON manifest and builds site(s) using ssg-go with soyweb features.
 All soyweb features such as minifers, index generators, etc are all available
 in ssg-manifest</p></li></ul><p>In addition to the executables, soyweb also exposes its own functionality as Go API.
-The API is carefully constructed to integrate seamlessly with ssg-go API.</p><p>All this allowed me to retire all of webtools old shell scripts with soyweb programs.</p><h2 id=the-new-webtools>The new webtools</h2><p>Now we have our own ssg and all the binaries we need to replace shell-based webtools,
+The API is carefully constructed to integrate seamlessly with ssg-go API.</p><p>All this allowed me to retire all of webtools old shell scripts with soyweb programs.</p><h2 id=the-new-webtools>The new webtools</h2><blockquote><p>Note: webtools has been renamed <a href=https://github.com/opensoy/ssg-pages>ssg-pages</a></p></blockquote><p>Now we have our own ssg and all the binaries we need to replace shell-based webtools,
 we can repurpose webtools to solely provide us CI/CD mechanisms for our websites.</p><p>The new webtools is just a GitHub Actions template. On push, a GitHub Actions workflow
 is run, downloading and unpacking soyweb&rsquo;s <code>ssg-manifest</code> using Nix into the runner&rsquo;s
 working directory, and use it to generate a website.</p><p>Like the original webtools, this new webtools provide us with full history of our websites,

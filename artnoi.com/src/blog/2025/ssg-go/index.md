@@ -2,10 +2,15 @@ Feb 17, [2025](/blog/2025/)
 
 # Introducing ssg-go
 
-[My latest project](https://github.com/soyart/ssg) was originally just a Nix flake
-for the original ssg shell script and all its runtime dependencies like Markdown.pl.
+ssg-go is my latest standalone project. ssg-go is a reimplementation
+of [the original ssg](https://romanzolotarev.com/ssg.html) in Go.
 
-In the end, I ended up re-implenting ssg in Go (ssg-go), and a lot more (soyweb).
+After ssg-go was conceived, a few more overengineered projects centered
+around ssg-go popped up thanks to my boredom.
+
+What was originally only imagined as just a simple Nix flake for the original
+ssg shell script had become a full blown shitty tools for the very simple task
+of building website from Markdown, which already had so many on-the-shelf solutions.
 
 ## The old webtools
 

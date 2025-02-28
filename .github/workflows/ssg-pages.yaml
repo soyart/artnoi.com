@@ -3,6 +3,11 @@ name: ssg-pages
 on:
   workflow_call:
     inputs:
+      ssg-go-ref:
+        type: string
+        required: false
+        default: dev
+
       dist:
         type: string
         required: true
@@ -27,10 +32,6 @@ on:
         type: string
         required: false
 
-env:
-  SSG_GO_RELEASE: release-ssg-go
-  SSG_GO_BIN_ZIP: ssg-go-x86_64_linux.zip
-
 jobs:
   build:
     name: Build static sites
@@ -41,62 +42,24 @@ jobs:
         with:
           github_access_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - id: release-ssg-go
-        name: Download ssg-go release
-        uses: robinraju/release-downloader@v1
-        with:
-          repository: 'soyart/ssg'
-          latest: true
-          zipBall: true # Source?
-          extract: true
-          out-file-path: ${{ env.SSG_GO_RELEASE }}
-
-      - name: Inspect release
-        env:
-          RELEASE_NAME: ${{ steps.release-ssg-go.outputs.release_name }}
-        run: |
-          echo "Inspecting release tag"
-          echo ${{ steps.release-ssg-go.outputs.tag_name }}
-
-          echo "Inspecting raw release name"
-          release_name=$RELEASE_NAME
-          echo "$release_name"
-
-          echo "Inspecting substituted release name"
-          release_name="${release_name#Release }" # trim prefix
-          echo "$release_name"
-
-          echo "Inspecting source zip archive"
-          release_name="ssg-${release_name}.zip"
-          echo "$release_name"
-
-          echo "Inspecting $(pwd) after downloading release"
-          tree .
-
       - name: Checkout
         uses: actions/checkout@v4
         with:
           # For some reasons, clean: false does not work now.
           # This forces us to use nix build from GitHub remote
           # and not from the downloaded release in step release-ssg-go.
-          #
-          # We'll use the output of release-ssg-go to construct
-          # a nix build source URL in step below.
           clean: false
 
-      - name: Prepare ssg-go executable(s)
-        env:
-          RELEASE_TAG: ${{ steps.release-ssg-go.outputs.tag_name }}
+      - name: Build ssg-go from ${{ inputs.ssg-go-ref }}
         run: |
           echo "Inspecting $(pwd) before building ssg-go with nix"
           tree .
 
-          # actions/checkout wiped our ssg source pulled earlier.
-          nix build "github:soyart/ssg?ref=$RELEASE_TAG#soyweb"
+          nix build "github:soyart/ssg?ref=${{ inputs.ssg-go-ref }}#soyweb"
           echo "Inspecting built soyweb"
           tree .
 
-      - name: Build from /manifest.json
+      - name: Build outputs from /manifest.json
         run: |
           echo "Inspecting before building"
           tree .

@@ -178,6 +178,8 @@ All this allowed me to retire all of webtools old shell scripts with soyweb prog
 
 ## The new webtools
 
+> Note: webtools has been renamed [ssg-pages](https://github.com/opensoy/ssg-pages)
+
 Now we have our own ssg and all the binaries we need to replace shell-based webtools,
 we can repurpose webtools to solely provide us CI/CD mechanisms for our websites.
 

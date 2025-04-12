@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - manual-trigger-actions
 
 jobs:
   build-deploy-pages:

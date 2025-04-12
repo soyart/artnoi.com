@@ -1,6 +1,39 @@
 name: ssg-pages
 
 on:
+  workflow_dispatch: 
+    inputs:
+      ssg-go-ref:
+        type: string
+        required: false
+        default: dev
+        description: "Git SHA1 or refs to pull and build soyweb from"
+
+      dist:
+        type: string
+        required: true
+        description: Build directory, i.e. the where the built static site files are put into.
+
+      deploy_branch:
+        type: string
+        required: true
+        description: |
+          Target deploy branch name.
+          When building from branch 'example.com', it's recommended to set deploy_branch to 'deploy/example.com' or 'publish/example.com'
+
+      wipe_deploy_branch:
+        type: boolean
+        required: true
+        description: |
+          Option to wipe deploy branch when deploying.
+          If true, the deploy branch will only contain artifacts from the last commit
+
+      # Custom domain name. This will create file CNAME at the root of dist to be copied to deploy branch
+      cname:
+        type: string
+        required: false
+        description: Domain name for ${publish_branch_root}/CNAME
+
   workflow_call:
     inputs:
       ssg-go-ref:
@@ -31,6 +64,7 @@ on:
       cname:
         type: string
         required: false
+
 
 jobs:
   build:

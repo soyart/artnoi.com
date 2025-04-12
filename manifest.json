@@ -5,6 +5,7 @@
 		"src": "artnoi.com/src",
 		"dst": "artnoi.com/dist",
 		"cleanup": true,
+		"generate-index": true,
 		"copies": {
 			"./artnoi.com/resc/_header.html": {
 				"force": true,

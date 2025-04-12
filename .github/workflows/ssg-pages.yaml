@@ -86,25 +86,40 @@ jobs:
 
       - name: Build ssg-go from ${{ inputs.ssg-go-ref }}
         run: |
-          echo "Inspecting $(pwd) before building ssg-go with nix"
+          echo "[ssg-pages] Inspecting $(pwd) before building ssg-go with nix"
           tree .
 
           nix build "github:soyart/ssg?ref=${{ inputs.ssg-go-ref }}#soyweb"
-          echo "Inspecting built soyweb"
+          echo "[ssg-pages] Inspecting built soyweb"
           tree .
 
       - name: Build outputs from /manifest.json
         run: |
-          echo "Inspecting before building"
+          echo "[ssg-pages] Inspecting before building"
           tree .
-          [ -f ./manifest.json ] && ./result/bin/ssg-manifest build --gen-index --min-html --min-html-copy --min-css --min-js
-          echo "Inspecting after building"
+
+          if [ -x ./result/bin/soyweb ]; then
+            echo "[ssg-pages] Using soyweb"
+            [ -f ./manifest.json ] && ./result/bin/soyweb build --min-html --min-html-copy --min-css --min-js
+
+          elif [ -x ./result/bin/ssg-manifest ]; then
+            echo "[ssg-pages] Using ssg-manifest"
+            [ -f ./manifest.json ] && ./result/bin/soyweb build --gen-index --min-html --min-html-copy --min-css --min-js
+
+          else
+            echo "[ssg-pages] Missing executable"
+            exit 2
+
+          fi;
+
+          echo "[ssg-pages] Build: ok"
+          echo "[ssg-pages] Inspecting after building"
           tree .
 
       # Prepare CNAME for GitHub Pages with custom domain
       - name: CNAME ${{ inputs.cname }}
         if: inputs.cname != ''
-        run: echo ${{ inputs.cname }} > ${{ inputs.dist }}/CNAME
+        run: echo "[ssg-pages] ${{ inputs.cname }} > ${{ inputs.dist }}/CNAME"
 
       - name: Deploy to ${{ inputs.deploy_branch }}
         uses: peaceiris/actions-gh-pages@364c31d33bb99327c77b3a5438a83a357a6729ad # v3.4.0

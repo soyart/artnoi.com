@@ -48,12 +48,14 @@
 ./blog/2022/todong/index.md
 ./blog/2023/_index.soyweb
 ./blog/2023/ali/index.md
-./blog/2023/orm-bad/index.md
 ./blog/2023/pages/index.md
 ./blog/2023/try-rust/index.md
 ./blog/2024/_index.soyweb
 ./blog/2024/kbtg-sucks/index.md
 ./blog/2024/orm-bad/index.md
+./blog/2025/_index.soyweb
+./blog/2025/framedb/index.md
+./blog/2025/ssg-go/index.md
 ./blog/_index.soyweb
 ./blog/etc/_index.soyweb
 ./blog/etc/audio-fidelity/index.md

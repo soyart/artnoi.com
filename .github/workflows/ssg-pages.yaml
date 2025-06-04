@@ -100,11 +100,11 @@ jobs:
 
           if [ -x ./result/bin/soyweb ]; then
             echo "[ssg-pages] Using soyweb"
-            [ -f ./manifest.json ] && ./result/bin/soyweb build --min-html --min-html-copy --min-css --min-js
+            ./result/bin/soyweb build --min-html --min-html-copy --min-css --min-js
 
           elif [ -x ./result/bin/ssg-manifest ]; then
             echo "[ssg-pages] Using ssg-manifest"
-            [ -f ./manifest.json ] && ./result/bin/soyweb build --gen-index --min-html --min-html-copy --min-css --min-js
+            ./result/bin/ssg-manifest build --gen-index --min-html --min-html-copy --min-css --min-js
 
           else
             echo "[ssg-pages] Missing executable"

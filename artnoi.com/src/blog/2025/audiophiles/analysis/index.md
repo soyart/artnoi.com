@@ -62,7 +62,7 @@ audiophiles still claim they can hear all the bad sounds on modern day consumer 
 (that is not made by hi-fi manufacturers), and that they'd pick a big hot vintage McIntosh amplifier
 over the smol, class D amplifier anytime. They also distrust pro audio devices for lacking musicality.
 
-The ceiling for improvement knows no limit for audiophiles, as they believe they can always
+The ceiling for improvement knows no bounds for audiophiles. They believe they can always
 milk better sound out of the same music with a little overengineering hardware,
 like with this [Sony high-res audio SD card](https://www.sony.jp/rec-media/products/SR-HXA/)
 ([discussed here](https://www.eevblog.com/forum/blog/eevblog-719-sony-low-noise-audiophile-sdxc-memory-card/)).
@@ -70,11 +70,11 @@ like with this [Sony high-res audio SD card](https://www.sony.jp/rec-media/produ
 They can't agree on which technologies are the best sounding: analog vinyl vs lossless digital music,
 or tube amplifiers vs solid state amplifiers.
 
-Their pursuit of perfect audio push their standards far past the naive audio engineers',
-who are allegedly deaf (alleged by the audiophiles) and only do funny maths and listen to tones.
+Their pursuit of perfect audio push their standards far past the naive audio engineers,
+who are allegedly deaf (alleged by the audiophiles) and only listen to funny tones.
 
 These *pro* audio devices the engineers use to produce the records are all crap compared to
-the high-end audiophile hardware, and it's normal for high-end audiophile equipments to cost
+their high-end audiophile hardware. It's normal for high-end audiophile equipments to cost
 more than the pro audio hardware in the studios.
 
 > Other weird thing is they respect and trust *fellow* cultured audiophiles who belive in
@@ -104,46 +104,51 @@ Let's find out.
 [Audio fidelity](/blog/etc/audio-fidelity) is faithfulness of the system transporting/transducing audio signal.
 
 The better fidelity, the more "true to original" the audio is. The ideal fidelity is 100% fidelity,
-which means that the output audio signal is perfectly identical with the source audio.
+which means that the output audio signal is perfectly identical to the original source audio.
 
-This alone implies that 2 very high-fidelity audio systems will have very small differences,
+The concept implies that 2 very high-fidelity audio systems will have very small differences (quiet, hardly audible),
 as they both sound very close to the original to the point that the differences are inaudible by human ear.
 
 There are ways to quantify fidelity, which are discussed in this [blog post](/blog/etc/audio-fidelity).
 
 ## Analysis of audiophiles
 
-We can (falsely) deduce that audiophiles are idiots based on their [characteristics](../characteristics/) and patterns.
-But most audiophiles I personally know are far from simple idiots.
+If you never knew about audiophiles before and come across this article talking shit on them,
+you might deduce that audiophiles are truly idiots based on their [characteristics](../characteristics/)
+and patterns. But the problem is most audiophiles I personally know are far from simple idiots.
 
 In fact, they are usually above-average in intelligence, and even more above-average in wealth.
-Some are even very smart, like doctors and my previous engineering manager,
-who perfectly understand difficult technical context regarding audio.
+Some are even very smart, like my previous engineering manager and ENT doctor.
+These people are way smarter than I am, and they should be able to understand difficult technical
+context regarding audio and our ability to hear sounds.
 
 So, why have they fallen to bullshit marketing?
-Why a software engineer would want expensive headphone cables?
 Why a doctor buy and place his quantum room treatment rock on his speakers?
+Why a software engineer would want expensive headphone cables?
 
 These questions drove me mad, so I tried to reason with all this insanity.
-**The answer is very human, complex, and has nothing to do with individual's technical intelligence**.
-The answer lies in how our human nature: our needs to relate to other people, our sense of belonging,
+I finally got my answer.
+
+The answer lies in our human nature: our needs to relate to other people, our sense of belonging,
 intragroup competition, "face saving", etc.
 
-And after I arrived at my answer, I also came up with another conclusion:
-**Once they're an audiophile, always an audiophile**.
+**The answer is very human, complex, and has nothing to do with individual's technical intelligence**.
 
-But before we jump to the [conclusion](#conclusion), let's first put ourselves into the shoes of an audiophile,
-and let's try to live their lives.
+And after I arrived at my answer, I also came up with another conclusion:
+**Once an audiophile, always an audiophile**.
+
+But before we jump down to the [conclusion](#conclusion), let's first put ourselves into the shoes
+of an average audiophile, and let's try to live their lives.
 
 ### Stages of audiophiles
 
 #### Proto-audiophiles
 
-An audiophile is usually some rich dude with enough spare time, let's call him Bob.
+An audiophile is usually some rich dude with enough spare time, let's call him **Bob**.
 
 As discussed, audiophiles are everywhere. So chances are Bob's got to know some audiophiles in his social circle already.
 
-Bob will then be first introduced to hi-fi audio by some audiopiles they personally know, like his friend John.
+Bob will then be first introduced to hi-fi audio by some audiopiles they personally know, like his friend **John**.
 Since this friend John is in the same social circle as Bob, Bob will trust John's judgement and experience some how.
 
 When John's introducing Bob to hi-fi audio, John will talk about all the esoteric tech or equipment needed for hi-fi

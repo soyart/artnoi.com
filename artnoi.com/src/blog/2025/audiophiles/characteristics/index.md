@@ -15,14 +15,9 @@ the awakening and recovery process.
 
 ## Naivity score 1
 
-These fallacies are acceptable, as they are very domain-specific (human hearing)
+These fallacies are acceptable, as they are very related to human hearing which is quite domain-specific.
 
 -  Underestimation or total disregard of room noise and treshold of hearing
-
-    > TLDR: To hear everything actually requires you to listen at very dangerously loud volume.
-    > Otherwise all those delicate and quiet details will be masked by room noise.
-    >
-    > This means that in most situations, those artifacts are inaudible to the listener.
 
     Because high-fidelity audio gears produce very near-identical sound (by definition),
     the differences will be very quiet. To be able to hear those minute differences,
@@ -35,7 +30,7 @@ These fallacies are acceptable, as they are very domain-specific (human hearing)
     If they disregard the room noise and proceed to play music at 80dB, then they'll only have 50dB SINAD over romm noise,
     thus they won't hear any differences between 2 high fidelity audio devices.
 
-- Disregard of psychoacoustics and how the brain works
+- Disregard of psychoacoustics and how the human perception works
 
     They don't care about biases from our brain when doing listening tests. This ignorance prevents them
     from looking at double blind listening tests as a requirement when evaluating audio devices.
@@ -60,12 +55,19 @@ However, because the audiophiles claim to be experts on audio, they shouldn't be
 Audio is literally their expensive "pride hobby" they already sank thousands into. In other words, they already
 spent a fortune on something they think they understand perfectly but in reality don't understand at all.
 
+This is why these traits have a score of 2.
+
 - Focus on gear as opposed to objective measurement
 
-    > TLDR: they believe components all contribute to *musicality*, whatever that word means
+    > TLDR: they believe components all contribute to audible characteristics of their systems.
+    >
+    > They also believe that they can indefinitely improve their system's sound by adding
+    > better, more expensive hi-fi components into the system.
 
     Audiophiles don't care about the measurements or other objective evidence (the only numbers they care
-    are those on the advertisements or marketing, e.g. DSD512, 24-bit audio, or a supertweeter's max range).
+    are those on the advertisements or marketing, e.g. DSD512, 24-bit audio, DAC chip marketing specs,
+    or a supertweeter's max range).
+    
     They only care about the existence stuff, who made the stuff, how much is the stuff,
     but without regard to how well the stuff is doing its job objectively.
 

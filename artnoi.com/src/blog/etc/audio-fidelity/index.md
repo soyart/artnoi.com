@@ -60,22 +60,20 @@ In turn, only four parameters are needed to assess everything that affects audio
 > The closer an audio signal is to the source across these four parameters,
 > the higher its fidelity." - Ethan Winer
 
-## Audiophiles? More like audio-fools
+## Audiophiles? More like audiofools
 
 If the aforementioned parameters are so fundamental to audio fidelity,
-then how come the elite audiophiles almost always never talk about it seriously.
+then how come the elite audiophiles never seems to care about them?
 
 If I had to answer this, I'd say it is because by accepting that audio fidelity is indeed
 very straightforward to measure, they risk losing their golden ear status and pride of
 owning very expensive equipments that perform worse.
 
-> In short, to keep their golden ear status, they keep on insisting that audio fidelity
-> must always be evaluated by a human expert on music listening on expensive gears.
+In short, to keep their golden ear status, they keep on insisting that audio fidelity
+must always be evaluated by a human expert doing sighted listening tests with no verification.
+This will keep the listener status as reference or authority on the performance of equipment.
 
-Oh, and from this line, words like 'audiophiles' and 'audio-fools' will be used interchangably,
-as they convey the same meaning to me.
-
-## The snake-oil audio companies
+## Snake oil hi-fi audio companies
 
 Boutique or large audiophile equipment manufacturers often claim to possess some magical feature
 not scientifically proven to have effects on audio performance, and for most of the time,
@@ -83,18 +81,21 @@ don't measure these 4 parameters correctly resulting in underperforming audio ge
 
 The example of which would be Sony's audiophile uSD card, and most products from boutique audiophile companies.
 
-Sometimes, they do actually provide these numbers, but usually in a misleading fashion.
+Sometimes, they do actually provide these numbers, but usually in a misleading fashion or measured
+with flawed methodology.
 
-> These snake-oil companies usually boast about rare-metal materials used to construct the cases,
+These companies usually boast about rare metal materials used to construct the cases,
 how the soldering is overengineered, and how they platinum-plate every metal contact in their products.
 
-They however rarely mention useful specifications - for example, some media players or even amplifiers
-advertise its power in Watt, which is useless unless we also know the load used to get that value and
-its output impedance.
+If they won't brag about the materials, then they'll brag about their exceptionally well engineered
+products, like with PS Audio and Audio GD.
+
+They however rarely mention actually useful values. For example, some media players or even amplifiers
+advertise its power in simple Watts term, which is useless unless we also know the load used to get that
+value and its output impedance.
 
 This is not to mention that even if the aforementioned specs are provided,
-it's usefulness is only in the power domain, as we do not actually know the THD v. Power
-or other similar measurements related to the [4 audio parameters](#definition).
+its usefulness is usually only in the power domain.
 
 Most consumer audio companies provide frequency response specifications for their speakers,
 but instead of providing an FR graph, they instead will just use 4 values to represent frequency response:
@@ -127,11 +128,20 @@ Most audiophiles also don't know that modern _everyday, consumer_ audio equipmen
 to the point that you will _not_, in double-blind test, be able to distinguish a cheapo DVD player
 from a pseudoscience-based $$$$ CD transport plus a standalone snake-oil DAC.
 
-This is because modern DACs perform so well that their jitter, which translates to timing and distortion,
-and noise in DAC performance, don't really matter anymore.
+Their idea that CD and by extension digital audio sounds terrible stems from the time when
+CD was first being introduced. Back then, implementation of CD player was really bad.
+We are speaking 14-bit PCM audio, or the brick wall low-pass filter which further generates artifacts.
 
-> Modern audio devices are so competent that today, even the self-claimed golden ears
-> FAIL to prefer high-end discrete power amplifier over garden-variety AVR.
+But all those issues were fixed long ago, in both production and reproduction stage, for example,
+with oversampling and newer low-pass filters. This led the modern DACs to perform so well that their jitter,
+which translates to timing and distortion, and noise in DAC performance, don't really matter anymore.
+
+Yet the audiophiles still hate the new tech, and long for vintage NOS non-oversampling DACs or something of sort.
+They can't decide if they should hate the bad early digital audio implementation used in early CD players,
+or the modern solutions.
+
+Apart from CDs, modern audio devices are so competent that even the self-claimed golden ears
+FAIL to prefer high-end discrete power amplifier over garden-variety AVR in double blind tests.
 
 In fact, less than 0.01 percent of world's population (or none at all) would be able to reliably hear digital jitter.
 
@@ -143,12 +153,16 @@ eliminating the need for any external music player device (given that you have a
 
 ## Test tones are not music?
 
-This has been brought up every time I discuss audio with audio-fools.
+This has been brought up every time I discuss audio with audiofools.
 
 Well, the tones and music are indeed the same, the way these audio equipments see it.
 
 So if your equipment could not even reproduce the easy 1KHz tone without audible distortion and noise,
 how on earth then can it reproduce the much more complex and challenging music signal?
+
+I do think of this tone vs music argument to be idiotic, since if you're doing other kind of
+engineering, you'd at least want to be assured by some form of tests like software unit tests
+to ensure that it works well in all department, audible artifacts or not.
 
 ## Habitual effect
 
@@ -198,16 +212,16 @@ from 3rd-party website like [AudioScienceReview](https://audiosciencereview.com)
 
 And now that you know there're only 4 parameters required to measure audio fidelity, we can safely conclude that
 
-> **Consumer (including audiophile) analog audio solution is in every possible way inferior
-> to its digital counterpart of the same class.
->
-> Analog systems have seriously worse time-based errors, and much higher noise floor, not to mention that
-> their general _modus operandi_ naturally makes them even more susceptible and sensitive to further errors.**
+**Consumer (including audiophile) analog audio solution is in every possible way inferior
+to its digital counterpart of the same class.
+
+Analog systems have seriously worse time-based errors, and much higher noise floor, not to mention that
+their general _modus operandi_ naturally makes them even more susceptible and sensitive to further errors.**
 
 Now, the question is, if analog audio performs very poorly, then why is it more preferable to some audiophiles?
 
-> The answer is simple, fidelity is objective, while preference is subjective, and thus is the reason
-> why many people prefer objectively worse audio equipment.
+The answer is simple, fidelity is objective, while preference is subjective, and thus is the reason
+why many people prefer objectively worse audio equipment.
 
 I suspect the reason people perceive digital to be less enjoyable (i.e. how audiophiles describe digital audio
 as 'sharp', or 'harsh') is because of (1) [habitual effect](#habitual-effect), and (2) expectation bias.
@@ -215,16 +229,21 @@ as 'sharp', or 'harsh') is because of (1) [habitual effect](#habitual-effect), a
 These 2 topics are very interesting especially when it comes to evaluating audio performance,
 so I recommend that you read about them first if you have not.
 
-> People coming from analog systems are going to perceive higher-fidelity solid-state
-> and digital system as sterile, dry, tinny because they're used to their good old trusted analog devices
-> (which produces more harmonic distortion that we humans tend to prefer naturally).
+People coming from analog systems are going to perceive higher-fidelity solid-state
+and digital system as sterile, dry, tinny because they're used to their good old trusted analog devices
+(which produces more harmonic distortion that we humans tend to prefer naturally).
 
-When digital audio first came mainstream, say, in the 1970s-80s, >90% of commercial recordings used analog medium,
-and hence the tape hiss and _all the crap was transcoded (i.e. carried over) to the newly introduced CDs_.
+Even if we ignore the bad implementation of early home digital audio, it's still understandable
+that audiophiles might find digital audio *bad* despite the digital implementation being superb.
+
+This is because when digital audio first came mainstream, say, in the 1970s-80s, >90% of commercial recordings
+used analog medium, and hence the tape hiss and all the crap was transcoded and reproduced (i.e. carried over)
+to the digital master.
 
 People were never before able to experience such high-def audio quality in analog gears,
 so when digital audio reveals flaws of analog recording, people called digital audio 'tinny'.
 
 Another contributing factor was that older speakers and other audio components of the time when CD was introduced
-were also NOT designed to handle higher frequencies very well, resulting in even worse degradation.
+were also NOT designed to handle higher frequencies very well, resulting in even worse fidelity due to
+the transducer's non-linearity.
 

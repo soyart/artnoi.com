@@ -8,10 +8,12 @@ This article will attempt to convey my own understanding of audiophiles.
 
 I have met so many audiophiles throughout my life. My first experience with
 one was in 2004 when I was 6, where I was introduced to the world of gold cables, tube amps,
-and horn speakers.
+and horn speakers by a rich uncle.
 
-After I got my Monster Turbine earphones as birthday gift, I began to look into audiophile forums.
-That discovery made me become an audiophile, and I have bought so many audiophile products
+Years later around 2010, I got my Grado-Alessandro MS-1i headphones and Monster Turbine earphones,
+so I naturally began to look into Thai audiophile forums.
+
+That journey into audiophile forums turned me into an audiophile, and I have bought so many audiophile products
 like a hi-fi USB cable and a discrete class A headphone amplifier. And countless other useless
 hardware. I also used to order a custom made gold-silver-copper hybrid 10CM 3.5mm audio connector cable
 from a boutique maker.
@@ -19,7 +21,7 @@ from a boutique maker.
 I quited being an audiophile back in around 2018. This gives me over 2 decades of experience
 with audiophiles and their way of thinking, and 14 full years of being audiophile myself.
 
-To me, audiophiles are very [easy to spot](../characteristics/) and we can find audiophiles anywhere:
+To me, [audiophiles are very easy to spot](../characteristics/) and we can find audiophiles anywhere:
 in schools, workplace, or within the family.
 
 It seems they all work different jobs, from business owners, physics professors,

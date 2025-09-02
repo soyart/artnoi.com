@@ -102,6 +102,27 @@ This is why these traits have a score of 2.
     like with X's definition, but with "fuller", "warmer" lower midrange. X's definition may mean "piercing"
     for audiophile Z.
 
+- Wrong holistic approach
+
+    Audiophiles are like vintage wine connoisseurs in that they believe firmly that everything has some side effects
+    on everything. And they are not wrong - our universe is a closed system, and every particle or wave inside of it
+    interacts with each other.
+
+    Every cable will degrade signal, like how *terroir* will likely have some effects on
+    the grapes. But are those effects enough to (1) produce audible differences, or (2) affect fruits enough to
+    change their sugar and other compositions such that these changes can be tasted even after decades long after
+    it's brewed, bottled, and stored in some random places.
+
+    But what these 2 categories of people get wrong is their own ability to perceive these minute changes.
+    Because they overestimate their superhuman perception, they will "maximize" every pathway of their system.
+
+    For audiophiles, they might buy very big and heavy turntables to minimize noise, or [some complex cables
+    that can recover data loss](https://mitcables.com/product/oracle-ma-x-rev-3-interconnects/).
+
+    For wine lovers, they might want to spend thousands on a certain vintage wine based on terrior alone,
+    without even asking about where and how it's been kept after all these decades, which should in theory have
+    more effects on final taste.
+
 - Buy expensive analog cables, for sound
 
     Some people understand that signals degrade in transmission. They also know that silver is a better conductor.

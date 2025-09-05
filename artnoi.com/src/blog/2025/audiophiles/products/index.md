@@ -27,8 +27,8 @@ These products all differ greatly, in many aspects. For example:
 
 - Prices
 
-    There're many segments of audiophile products, from cheapo $99 Chinese DAC/AMP (tube),
-    to overpriced golden-clad preamplifier selling for over $20,000.
+    There're many segments of audiophile products, from cheapo \$99 Chinese DAC/AMP (tube),
+    to overpriced golden-clad preamplifier selling for over \$20,000.
 
     Some of these products might have attained godhood status and are highly sought after,
     like vintage McIntosh amplifiers that sell for more than a new one.

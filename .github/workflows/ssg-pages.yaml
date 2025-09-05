@@ -39,7 +39,7 @@ on:
       ssg-go-ref:
         type: string
         required: false
-        default: dev
+        default: master
 
       dist:
         type: string

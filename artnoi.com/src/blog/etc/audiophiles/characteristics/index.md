@@ -17,18 +17,20 @@ the awakening and recovery process.
 
 These fallacies are acceptable, as they are very related to human hearing which is quite domain-specific.
 
--  Underestimation or total disregard of room noise and treshold of hearing
+-  Underestimation or total disregard of treshold of hearing and room noise
 
-    Because high-fidelity audio gears produce very near-identical sound (by definition),
-    the differences will be very quiet. To be able to hear those minute differences,
-    you'll need to hear all of the sound, including the quitest part of the audio.
+    Because high-fidelity audio gears produce near-identical sound (by definition),
+    the differences or artifacts will be very quiet. To be able to hear those artifacts,
+    you'll need to hear all of the sound, including the quitest and loudest part of the audio.
+    So you'll have to crank up the volume.
 
-    Recall that, music is usually enjoyed privately at 70-85dB (without regard to room noise), and room noise is ~30dB.
-    These numbers indicate that to be able to hear the audio equipment's differences in a standard room,
-    you will need to listen at more than 100dB. This will damage their hearing to be able to hear those small artifacts.
+    Recall that music is usually listened at 70-85dB SPL (without regard to room noise),
+    and that room noise is ~30dB. These numbers indicate that to be able to hear the audio equipment's
+    differences in a standard room, you will need to listen at around 30+80dB = 110dB.
+    This is well beyond too loud, and will probably damage your hearing.
 
-    If they disregard the room noise and proceed to play music at 80dB, then they'll only have 50dB SINAD over romm noise,
-    thus they won't hear any differences between 2 high fidelity audio devices.
+    If they disregard the room noise and proceed to play music at 80dB, then they'll only have 50dB SINAD
+    over romm noise, thus they won't hear any differences between 2 high fidelity audio devices.
 
 - Disregard of psychoacoustics and how the human perception works
 
@@ -38,10 +40,10 @@ These fallacies are acceptable, as they are very related to human hearing which 
 - Don't understand the importance of volume-matching when doing comparisons
 
     They don't realize that pushing up the volume can change the sound signature heard at the eardrum and
-    perceived by the brain. Due to our own ear's frequency response, louder volume when push the quieter sounds
-    up to audible level, resulting in more "open", "airy", "detailed", and overall fuller sound.
+    perceived by the brain. Due to our own ear's frequency response, louder volume push the quieter sounds
+    up to audible levels, resulting in more "open", "airy", "detailed", and overall fuller sound.
 
-    They don't even know the term *volume matching*, and never think about doing it when comparing 2 equipments.
+    They don't even know the term *volume matching*, and never think about doing it when comparing 2 devices.
     This is where they could be exploited to snake oil salesmen selling amplifiers, or even DAC with high line level.
 
     My own believe is that the lack of proper volume matching also led to many rigged double blind listening tests.
@@ -51,11 +53,11 @@ These fallacies are acceptable, as they are very related to human hearing which 
 These traits are also acceptable, because audiophiles with these traits simply lacked deep technical knowledge
 that 99% of other people also don't know about.
 
-However, because the audiophiles claim to be experts on audio, they shouldn't be making these mistakes.
+But because the audiophiles claim to be experts on audio, they shouldn't be making these mistakes.
 Audio is literally their expensive "pride hobby" they already sank thousands into. In other words, they already
 spent a fortune on something they think they understand perfectly but in reality don't understand at all.
 
-This is why these traits have a score of 2.
+This is why I'm less forgiving for these characteristics and will give them a score of 2.
 
 - Focus on gear as opposed to objective measurement
 

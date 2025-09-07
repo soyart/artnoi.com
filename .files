@@ -58,10 +58,12 @@
 ./blog/2025/ssg-go/index.md
 ./blog/_index.soyweb
 ./blog/etc/_index.soyweb
+./blog/etc/audio-fidelity/index.md
 ./blog/etc/audiophiles/_index.soyweb
 ./blog/etc/audiophiles/analysis/index.md
 ./blog/etc/audiophiles/audio-fidelity/index.md
 ./blog/etc/audiophiles/characteristics/index.md
+./blog/etc/audiophiles/debunk/index.md
 ./blog/etc/audiophiles/my-past/index.md
 ./blog/etc/audiophiles/products/index.md
 ./cheat/arch/index.md

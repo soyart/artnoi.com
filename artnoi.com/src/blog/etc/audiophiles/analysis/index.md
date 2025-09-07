@@ -43,7 +43,7 @@ The better fidelity, the more "true to original" the audio is.
 The differences between original (source) signal and its output (sink) are *audio artifacts*.
 Artifacts include noise and distortion.
 
-There are ways to quantify fidelity, which are discussed in this [old blog post](../audio-fidelity/).
+There are ways to quantify fidelity, which are discussed in this [very old blog post](../audio-fidelity/).
 
 The ideal fidelity is 100% fidelity, which means that the output audio signal is perfectly
 identical to the original source audio. Most audio engineers aim for highest fidelity within
@@ -59,9 +59,13 @@ Any systems that do well enough to not have audible artifacts are usually called
 Low-fidelity signal on the other hand might have audible artifacts,
 which may or may not be pleasant to us.
 
-The key takeaway is how *only* low-fidelity systems produce audibly different sounds.
-Good systems sound the same. Another takeaway is there's no improvement for sounding better,
-only sounding more *true to the original signal*.
+Since 2010s, most consumer digital audio equipments are transparent, except for the transducers, e.g.
+speakers and headphones. Yes, your \$99 Apple iPhone 3.5mm dongle or the built-in output of your MacBooks
+is transparent and can definitely drive 99% of the earphones, and pretty much 95% of the headphones out there.
+
+The key takeaway is how ***only* low-fidelity systems produce audibly different sounds,
+while systems sound the same**. Another takeaway is **there's no improvement for sounding better,
+only sounding more true to the original signal**.
 
 > Audio fidelity is thus like evaluating monitor displays for pro photographers, or a good magnifier glass.
 > 

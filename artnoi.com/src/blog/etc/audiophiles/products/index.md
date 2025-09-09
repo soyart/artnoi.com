@@ -8,7 +8,8 @@ Consumer audio products are audio hardware or software marketed towards normal p
 and could be mobile, desktop, or floorstanding.
 
 Audiophile products are also consumer audio hardware or software,
-but *marketed* towards [audiophiles](../analysis) instead.
+but *marketed* towards [audiophiles](../analysis/) instead. They are usually made and sold
+by companies exclusively focusing in catering to the audiophile market.
 
 Some, like Sony or Sennheiser, sell both consumer audio, pro audio, and audiophile products.
 This means that we can't just say that a particular Sony products are all snake oil because

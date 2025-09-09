@@ -1,8 +1,14 @@
-## My past as an audiophile
+> This article is part of my [audiophiles](../) series of articles
+
+# My past as an audiophile
+
+## First impression
 
 I have met so many audiophiles throughout my life. My first experience with
 one was in 2004 when I was 6, where I was introduced to the world of gold cables, tube amps,
 and horn speakers by a rich uncle.
+
+## Journey into the abyss
 
 Years later around 2010, I begin to buy my first quality audio products.
 My first purchases are Grado-Alessandro MS-1i headphones and Monster Turbine earphones.
@@ -15,6 +21,8 @@ and countless other hardware. I even ordered a custom made gold-silver-copper hy
 10CM 3.5mm audio connector cable from a boutique maker, and a short handmade USB A-B interconnect
 for my mobile DAC.
 
+## Awakening
+
 I quited being an audiophile back in around 2018 after I came across Ethan Winer's writings.
 He wrote ["The Audio Expert"](https://ethanwiner.com/book.htm), a textbook in audio engineering
 still in use in universities today.
@@ -25,5 +33,6 @@ and a ton of headphones and earphones.
 I naturally stop buying anything new except the transducers, until I bought the ER4SR.
 The in-ear monitors are so good (and versatile) I just stop caring about other headphones,
 except a custom monitors, which has always been my dream (it looks cool).
-I only buy non-transducer stuff when I really need the functionality, like Bluetooth.
+I only buy non-transducer stuff when I really need the functionality, like Bluetooth
+or custom/near-field monitors.
 

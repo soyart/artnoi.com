@@ -2,7 +2,7 @@ Sep 1, [2025](/blog/2025/)
 
 > This article is part of my [audiophiles](../) series of articles
 
-# On audiophiles
+# On audiophiles, and why they (will) always exist
 
 I've always been and will always be facinated with audiophiles.
 When I was younger I admired and respected them. After I learned a thing or two
@@ -52,9 +52,10 @@ a set of constraints, *including human hearing*.
 The concept implies that 2 very high-fidelity audio systems will have very small differences (quiet, hardly audible),
 as they both sound very close to the original to the point that the differences are inaudible by human ear.
 
-100% perfect fidelity is basically the same signal/wave.
-Good but non-perfect fidelity might have *artifacts*, but those artifacts are inaudible to human ear.
-Any systems that do well enough to not have audible artifacts are usually called transparent.
+100% perfect fidelity is signal basically the same signal/wave as the original - they are indistinguishable.
+Good but non-perfect fidelity system might have *artifacts* in the output, but those artifacts are
+inaudible to human ear. Any systems that do well enough to not have audible artifacts are usually
+called *transparent*, as in transparent glass (no tint/distortion on image).
 
 Low-fidelity signal on the other hand might have audible artifacts,
 which may or may not be pleasant to us.
@@ -64,7 +65,8 @@ speakers and headphones. Yes, your \$99 Apple iPhone 3.5mm dongle or the built-i
 is transparent and can definitely drive 99% of the earphones, and pretty much 95% of the headphones out there.
 
 The key takeaway is how ***only* low-fidelity systems produce audibly different sounds,
-while systems sound the same**. Another takeaway is **there's no improvement for sounding better,
+while hi-fi systems sound the same** (unless you listen at >100dB loud and your acoustically perfect room
+is 0dB quiet, which is not the case eh?). Another takeaway is **there's no improvement for sounding better,
 only sounding more true to the original signal**.
 
 > Audio fidelity is thus like evaluating monitor displays for pro photographers, or a good magnifier glass.

@@ -2,12 +2,14 @@ December 17, 2017
 
 Last edited: Sep 8, 2025
 
-> Sound, for all the nuance and excitement it offers,
-> only operates in two dimensions: Time and intensity.
+> This article is part of my [audiophiles](../) series of articles
 
 # Audio fidelity
 
 ## Definition
+
+> Sound, for all the nuance and excitement it offers,
+> only operates in two dimensions: Time and intensity.
 
 [Here](https://sonicscoop.com/2014/04/24/defining-audio-fidelity),
 Ethan Winer defines audio fidelity for you:

@@ -1,8 +1,7 @@
-> This article is part of my [audiophiles](../) series of articles
-
 December 17, 2017
-
 Last edited: Jul 17, 2023
+
+> This article is part of my [audiophiles](../) series of articles
 
 # Debunking audiodiophile myths
 

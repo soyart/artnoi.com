@@ -2,11 +2,11 @@ Feb 17, [2025](/blog/2025/)
 
 # Introducing ssg-go
 
-ssg-go is my latest standalone project. ssg-go is a reimplementation
-of [the original ssg](https://romanzolotarev.com/ssg.html) in Go.
+[ssg-go](https://github.com/soyart/ssg-go) is my latest standalone project.
+ssg-go is a Go implementation of [the original ssg](https://romanzolotarev.com/ssg.html).
 
 After ssg-go was conceived, a few more overengineered projects centered
-around ssg-go popped up thanks to my boredom.
+around ssg-go popped up thanks to my boredom, e.g. [soyweb](https://github.com/soyart/soyweb).
 
 What was originally only imagined as just a simple Nix flake for the original
 ssg shell script had become a full blown shitty tools for the very simple task

@@ -37,6 +37,5 @@ which is my desktop and terminal font face, with blue-ish color scheme from
 
 <s>artnoi.com is [served using OpenBSD `httpd(8)` and `relayd(8)`](/blog/2022/openbsd-https).</s>
 
-artnoi.com is built from Markdown using [my Go implementation of ssg](https://github.com/soyart/ssg),
-deployed to GitHub Pages via [ssg-pages pipeline](https://github.com/opensoy/ssg-pages),
-and hosted on [ssg-pages/artnoi.com](https://github.com/soyart/artnoi.com).
+artnoi.com is built from Markdown using [ssg-go](https://github.com/soyart/ssg-go) and
+[soyweb](https://github.com/soyart/soyweb). It's deployed via [ssg-pages](https://github.com/soyart/artnoi.com).

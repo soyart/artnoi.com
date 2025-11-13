@@ -34,6 +34,10 @@
 			"./artnoi.com/resc/openbsd.png": {
 				"force": true,
 				"target": "artnoi.com/dist/toplogo.png"
+			},
+			"./artnoi.com/resc/pics": {
+				"force": true,
+				"target": "artnoi.com/dist/pics"
 			}
 		}
 	}

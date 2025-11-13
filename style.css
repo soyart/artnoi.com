@@ -148,3 +148,26 @@ footer p {
 	font-size: small;
 	text-align: left;
 }
+
+img.blog-image {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: 1.5em 0;
+}
+
+img.blog-image-small {
+	max-width: 600px;
+	width: 100%;
+	height: auto;
+	display: block;
+	margin: 1.5em 0;
+}
+
+img.blog-image-medium {
+	max-width: 800px;
+	width: 100%;
+	height: auto;
+	display: block;
+	margin: 1.5em 0;
+}

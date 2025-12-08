@@ -6,6 +6,7 @@
 		"dst": "artnoi.com/dist",
 		"cleanup": true,
 		"generate-index": true,
+		"generate-index-mode": "modtime",
 		"copies": {
 			"./artnoi.com/resc/_header.html": {
 				"force": true,

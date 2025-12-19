@@ -74,12 +74,14 @@ were either to V-shaped, or expensive, or cheap.
 
 ## Frequency response
 
-Let's start with FR:
+Let's start with FR [comparison with ER4SR on 711 measurement](https://graph.hangout.audio/iem/711/?share=ER4SR,UERR):
+
+<img src="/pics/graph_uerrp_er4sr.png" alt="Squiggly comparison between UERR+ and ER4SR" class="blog-image-medium">
 
 - Nice, accurate bass.
 
-    The bass is good, though feels much more volumious than the ER4SR.
-    It feels more immersive with better details.
+    The UERR+ has exceptionally flat bass response,
+    where 20Hz is only 2-3 decibel below 1kHz.
 
     I personally like the UERR+'s bass better compared to the good old Etys.
     This might be because the UERR+ drivers are not stressing themselves
@@ -112,7 +114,7 @@ Let's start with FR:
     > The audiophile camp seems to put more emphasis on the pinna gain,
     > while the musicians/professionals prefer their monitors to lack the pinna gain compensation.
     >
-    > One of the most comprehensive, though not sure if bullshit,
+    > One of the most comprehensive, though I'm not sure if it's bullshit,
     > is this [Reddit post](https://www.reddit.com/r/inearfidelity/comments/1fnf3hl/why_professionalstudio_iems_have_less_pinna_gain/)
 
 - Nice highs. Not sure what to say here.
@@ -147,10 +149,13 @@ But once music plays in normal environments they are roughly equivalent in the n
 UERR+ is a good custom monitor with acceptable reference performance.
 Like any other customs, it fits really well and provides great comfort.
 
-Though I personally feel like the UERR+ is less "accurate" in the FR department,
-I still think it's a great product for intended audience, i.e. the real audio engineers.
+Though I personally feel like the UERR+ is less "accurate" in the FR department
+because ear gain is missing,, I still think it's a great product for intended audience,
+i.e. the real audio engineers.
 
 Soundwise, it's a good fit for any listeners who wants uncolored sounds but find the Etys too dry.
 
 The engineers might want some portable monitors that allow them to mix on the move for hours and hours,
 and be able to hear everything comfortably during that time, which with ER4SR would prove to be tiring/fatigued.
+
+But if you're looking for a pair of end-game reference monitors, this is not it.

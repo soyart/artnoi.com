@@ -37,103 +37,6 @@ to the manufacturers who publish these results objectively and professionally.
 
 Bonus points if it's also portable.
 
-# Speakers (drivers), and how they still suck
-
-Although technology has made most audio devices transparent for 16-bit audio for ~10 years now,
-there's one link in the audio chain has not yet become cheaply transparent - the speakers.
-
-Speakers convert electrical electrical input signal into motion, which in turn moves air.
-This is why some calls the device "driver" - it drives air.
-
-> In other non-audio usage, devices such as the a speaker (receives electrical signal,
-> outputs something else) are called **transducers**.
-
-The speaker's the last component of the playback chain, and it also happens to introduce a lot
-of artifacts and distortion. Usually, people have a very clean playback signal path (good source,
-D/A converters, amplifiers) only to get fucked by shitty speakers.
-
-We can put these "speakers" into a box and listen to it directly (consumer speakers),
-or, if the speakers are small enough, we can build a miniature enclosure around it and strap it to our ears
-and boom we get headphones. or we can shove the speakers into the ear canal, and we call that earphones.
-
-> Sine the word 'speaker' is used everywhere, let's call these barebone speakers,
-> which could be built into headphones and earphones, "drivers".
->
-> The term speaker will only be reserved for refering to speaker as an end-user product,
-> e.g. shelf speakers or floor standing speakers.
->
-> There're many ways to implement a driver. For example, the ER4SR has 1 speaker per channel,
-> and that speaker is a of type balanced armature (BA), while normal free Samsung earbuds come with
-> 1 dynamic driver. My custom monitors have 3 BAs per channel.
-
-# Headphones vs Earphones vs Monitors, and ear gain
-
-Since I'm not good with money and keeping my room tidy, I'll never be able
-to build myself a listening room. I also have short attention span and would like
-to walk around with perfect music in my ear, all the time.
-
-I'm thus left with only 2 options for transparent music listening: headphones and earphones.
-With these 2 implementation of transducers, I no longer have to care for "the room".
-
-Both headphones and earphones are just speakers placed very close to or in the ear.
-In terms of circuitry and how they work, both headphones and earphones are identical.
-
-Very accurate/flat headphones and earphones for professional use are usually called **monitors**,
-just like monitor speakers and display monitors.
-
-> As of 2025, due to dumb buyers, most premium [audiophile](/blog/etc/audiophiles/)
-> in-ears are marketed as monitors to distinguish themselves from AirPods or other in-ear earphones.
-> And these IEM fans don't actually like real monitors.
-
-With headphones, some of the air (sound) pushed by the headphone drivers will hit our ear first,
-before going into the ear canal and finally hitting the eardrum. But unlike speakers,
-headphones drivers are placed directly in front of the ear canal, and the sound just goes
-straight into the canal, without room reflections and deflections inherent in speakers.
-
-Earphones, whether earbuds or in-ears, do not have this ear gain effect as the sound originates
-from within the ear, hence no pinna amplification.
-
-If the sound is coming in outside of the ear, as with headphones and speakers, the ear pinna
-will amplify sound within certain frequency range (1-5kHz). We call this phenomenon "ear gain",
-or "pinna gain". Ear gain was evolved to help channel more sound of that frequency range to help
-with our survival during the Unga Bunga period.
-
-Knowing that our ear (the external part) has direct effect on sound heard at the eardrum
-means that when buying any in-ear earphones that bypass the ear, you'll need some kind of
-artificial boost in that region.
-
-A totally flat drivers will sound muffled when used as in-ear earphones, because our brain
-is used to that ear amplification effect
-
-# My monitors
-
-To understand why I love the Etys so much, let me show you my monitor collection,
-probably in chronological order of purchases:
-
-## Monitor earphones
-
-- AudioTechnica M-40
-- Massdrop-AKG K7XX
-- Beyerdynamic DT990 (sold, not sure about exact spec)
-- Beyerdynamic DT770 250 (sold)
-- Beyerdynamic DT880 Black 250
-- Sennheiser HD600
-
-Of all these monitors, I like Senn HD600 and Beyer DT880 the most, with HD600
-being my "reference", e.g. flattest headphones for 2 years. The midrange from
-HD600 is still my favorite implementation of "reference sound" in the headphone department.
-
-But being very old, the HD600 still has some bass and treble rolloff.
-And it's also open headphones, meaning noise gets in. Bad bad.
-This is why I kept buying new monitors every now and then during 2016-2018.
-
-- JHAudio Michelle (sold because I'm too small)
-- [Etymotic ER4SR (US made, 2018 ~$450)](https://crinacle.com/graphs/iems/etymotic-er4sr/)
-- [Etymotic ER4SR (VN made, 2025 ~$200)](https://crinacle.com/graphs/iems/etymotic-er4sr/)
-- [Ultimate Ears Pro Reference Remastered Plus (UE RR+, 2025)](https://crinacle.com/graphs/iems/uerr/)
-
-You can see how much I love the Etys. They're the only one I bought twice.
-
 # Discovery
 
 Despite owning several "monitors" and non-monitor headphones/earphones,
@@ -141,23 +44,30 @@ I still feel like something's off. It's like each of my other monitors
 will sound good overall, but lacking or having some problems in some
 frequency range.
 
-Then one day I walked into a Korean audio shop, and happened to see
-a weird looking barrel-shaped Etymotic ER4SR. I suddenly remembered
-that I've read about it on online forums, since maybe 2011, and that
-people call it "too flat" or "too dry".
+Then one day I walked into a Seoul audio shop, and happened to see
+a weird looking barrel-shaped Etymotic ER3 models on shop stand.
 
-The first one I tried at the shop was ER3SR, and boy was I blown away.
-It sounds right in every region - the bass, mid, and highs. It also sounds
-like my HD600 but with fuller sound across the spectrum.
+I suddenly remembered that I've since always seen it on audio forums since maybe 2011,
+and that people call it "too flat" or "too dry" but still the best reference.
+I demoed the unit right away.
 
-And after hearing the ER4SR, I bought it right away (at the time,
-I can't tell the differences ER4SR and ER3SR due to fatigue).
+The first one I tried at the shop was ER3SE, and boy was I blown away.
+It sounded right in every region - the bass, mid, and highs, and it's very cheap too.
+It also sounded like my HD600 but with fuller sound across the spectrum.
+
+And after having had tried the ER4SR, I bought it right away (at the time,
+I could barely tell the differences between ER4SR and ER3SR due to ear fatigue).
 
 <img src="/pics/er4sr_uerrp_with_boxes.jpg" alt="ER4SR with boxes" class="blog-image-medium">
 
 # What makes Etymotic ER4SR special
 
-Well it turns out, a lot of things:
+Well it turns out, a lot of things.
+
+In fact, let's first compare the FR of ER4SR with my other "reference" grade custom monitors
+and see how the ER4SR handles ear gain with grace compared to whatever UE's doing:
+    
+<img src="/pics/graph_uerrp_er4sr.png" alt="ER4SR with boxes" class="blog-image-medium">
 
 - Very, very flat sound
 
@@ -172,6 +82,7 @@ Well it turns out, a lot of things:
     You're almost listening to the music itself and not to the drivers. This is why
     I call the Etys "boring" in the sense that you almost forget about the monitors
     had they not penetrating you that deep.
+
 
     - Transparent bass
 
@@ -280,5 +191,8 @@ If you gotta have reference, why not have 2 references?
 
 In fact, after getting myself a custom UE RR+, I've been wanting to buy a 3rd pair for girl from Drop.com
 because $200 is such a great deal.
+
+Although I know that there're competent Chinese companies making in-ear monitors
+scientifically now, I still want to celebrate Etyomotic's pioneering spirit.
 
 TLDR; It's just that good. Buy before US implodes.

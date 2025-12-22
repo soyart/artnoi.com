@@ -5,13 +5,18 @@ Dec 22, 2025
 I'm working at a company whose primary product is to provide food delivery with gig workers.
 
 I've been here for 2 years now, and what I see here cements in me with
-what other people have been saying out such companies and their services.
+what other people have been saying out about such companies and their services.
 
-But since Thai libel and defamation cases are really aggressive and without truth as defense,
-let's make this post about American platforms who are already criticized and scrutinized by many people instead.
+Recently, an ex-exec was denied entry into a Thai left-leaning (center-left?) political party,
+and I engaged with some people online who asked me why I hold such strong feelings against the exec,
+hence this post.
 
-This is also about services (and their owners/execs), not the many people working there who just follow orders
-like the poor programmer that I am.
+Since Thai libel and defamation cases are really aggressive (and without truth as defense),
+let's make this post more generalized and about American global platforms which are already
+criticized and scrutinized by many people instead.
+
+Note: this is only about the services (and their owners/execs/MBAs/BBAs), not the many people working there
+who just follow orders like the poor programmer that I am.
 
 ## Gig platforms
 
@@ -19,18 +24,18 @@ Gig platforms are those that provide arena for gig economy activity, such as tax
 where the customer can order on the platform's app, and driver provides his own vehicle, fuel, and labor to drive
 the customer around. The customer pays the app, who then pays the driver after deducting the app's "fees".
 
-They are middle men providing "marketplace" for certain services. Their main function is to coordinates stuff
-to make the order happen, but don't do much else other than charging the customer more for it.
+They are middle men providing "marketplace" for certain services. Their main function is to coordinate stuff
+with computers to make the orders happen, but they don't do much else other than charging the customer more for it.
 
-Like most middle men, they should be despised, but they apparently are not and customers seemed to love them initially.
-This helped them expand, to the point of "disrupting" the traditional business model.
+Like most middle men, they should be despised. But apparently, they were not, and customers seem to love them
+even now. This helped them expand, to the point of "disrupting" the traditional business model.
 
 Now, how did they expand? It's called blitzscaling.
 
 ## Blitzscaling
 
 All of these “platforms” (including e-commerce apps) follow the same shitty and evil principles of blitzscaling.
-So there're 2 parts about blitzscaling: (1) illegal activities, and (2) undercutting prices.
+So there're 2 parts about blitzscaling: (1) pioneering with illegal activities, and (2) making it super cheap.
 
 Blitzscaling is required for these platforms to expand, otherwise it won't, because people generally hate middle men.
 So blitzscaling gotta be very aggressive. It does this by first "pioneering" innovations by breaking the law (and thus becoming the first mover),
@@ -121,9 +126,15 @@ Examples for delivery apps include:
     Easy paying customers get charged more, because the platforms know you pay without comparing prices.
     While frugal customers get personalized discounts to facilitate the trades.
 
+- Customer support kept getting worse
+
+    We were able to get cash refunds. Now it's credit refunds. We had call center, but now they replaced it with chatbots.
+    For most people, you won't get human on the line unless you can prove that the situation is really grim, like maybe thefts.
+
 ## Worker exploitation
 
 Worst is how they always mistreat their riders, you know, the ones who actually do the work and provide values for the platforms.
+They can have the most polished apps on Earth and the best price, but it won't mean shit if there're no drivers waiting around.
 
 These apps are delivery apps, but they don’t actually deliver. They just provide the software and platform to do so,
 which is not in the physical world and by itself won’t cook or move the food.
@@ -151,7 +162,8 @@ and are afraid to lose their income so much so that they accepted unfavorable or
 This means that you, the gig worker, gotta be super obedient to these platforms and must accept x% of orders to qualify to work there,
 or 90% to qualify for their incentives, without which your income is below poverty line.
 
-That’s more strict than regular employer-employee dynamics. It’s psychological warfare and torture like how Amazon treats their warehouse workers. Read up about that next.
+That’s more strict than regular employer-employee dynamics. It creates a feeling where you are watched all the time
+by all-powerful malevolent overlord. It’s psychological warfare and torture like how Amazon treats their warehouse workers.
 
 ## Worker exploitation: unlimited sheep
 

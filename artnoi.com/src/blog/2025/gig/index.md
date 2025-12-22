@@ -34,29 +34,37 @@ Now, how did they expand? It's called blitzscaling.
 
 ## Blitzscaling
 
-All of these “platforms” (including e-commerce apps) follow the same shitty and evil principles of blitzscaling.
-So there're 2 parts about blitzscaling: (1) pioneering with illegal activities, and (2) making it super cheap.
-
-Blitzscaling is required for these platforms to expand, otherwise it won't, because people generally hate middle men.
-So blitzscaling gotta be very aggressive. It does this by first "pioneering" innovations by breaking the law (and thus becoming the first mover),
-and make the service prices very cheap by undercuting prices.
-
 If you'd read about actual gig platform businesses like Uber, DoorDash, AirBnB, etc,
 and their questionable blitzscaling strategies (which is usually initially illegal or exists in the grey area),
 you probably came across this term.
 
+Blitzscaling is required for these middle man platforms to expand, otherwise they won't, because people generally hate middle men.
+So blitzscaling gotta be very aggressive and break some the current meta of the "gameplay" for it to be adopted.
+
+All of these “platforms” (including e-commerce apps) follow the same shitty and evil principles of blitzscaling.
+So there're 2 parts about blitzscaling: (1) pioneering with illegal activities, and (2) making it super cheap.
+
+### Blitzscaling: illegal activities
+
 First aspect of blitzscaling is illegal activities. These blitzscaling platforms all started with illegal businesses.
 AirBnB and Uber were all illegal in all markets they operated in. They just kept doing it, until it became legal by lobbying.
 This is true everywhere you look: US, UK, Europe, Singapore, China, Thailand.
+
+It does this by first "pioneering" innovations by breaking the law (and thus becoming the first mover),
+and make the service prices very cheap by undercuting prices with illegal operations (i.e. not paying minimum wages,
+not providing insurance, etc).
 
 Even today, these businesses still operate illegally or in the grey area of law. For example,
 AirBnB is still banned in NYC, LA, and SF, but of course you'll still find one in these cities.
 
 Because they aren't regulated like real taxi companies or existing businesses, most of the victims of arbitary pricings
 had no recourse to the law, and the platforms are free to experiment and get away with their next high-tech evil shit
-such as surge pricing and dynamic pricing.
+such as surge pricing and dynamic pricing, or AirBnB's infamous cleaning fees.
+
+### Blitzscaling: undercutting prices
 
 Next, after setting up the illegal business, these platforms must now compete with well established players.
+
 But they can't actually compete, so they undercut their prices instead. Talk about dirty ass play.
 
 These platforms got huge ass sum of investment from investors. They then use that money to undercut prices initially
@@ -165,7 +173,7 @@ The Thai food delivery duopoly lowers the base rider fees every year. In the las
 where they raised the base fees. Yes, you read that right. In fact, the base fees go down every year. You can go in the Thai rider
 facebook groups and confirm that with the workers' complaints every February.
 
-## Worker exploitation: monitoring and psychological torture
+### Worker exploitation: monitoring and psychological torture
 
 They also have this weird incentive system that actually pushes the riders to their limits,
 otherwise the system won’t assign orders to the riders.
@@ -179,7 +187,7 @@ or 90% to qualify for their incentives, without which your income is below pover
 That’s more strict than regular employer-employee dynamics. It creates a feeling where you are watched all the time
 by all-powerful malevolent overlord. It’s psychological warfare and torture like how Amazon treats their warehouse workers.
 
-## Worker exploitation: unlimited sheep
+### Worker exploitation: unlimited sheep
 
 And as our global economy tanks and will continue to tank, more and more workers are entering gig economy.
 

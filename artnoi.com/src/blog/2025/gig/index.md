@@ -48,6 +48,8 @@ We can reduce the essense of blitzscaling into 2 parts:
 
 2. making the services super cheap (illegally cheap)
 
+These 2 core ideas go hand in hand. They feed each other.
+
 ### Blitzscaling: illegal activities
 
 First aspect of blitzscaling is illegal activities. These blitzscaling platforms all started with illegal businesses.
@@ -65,7 +67,7 @@ Because they aren't regulated like real taxi companies or existing businesses, m
 had no recourse to the law, and the platforms are free to experiment and get away with their next high-tech evil shit
 such as surge pricing and dynamic pricing, or AirBnB's infamous cleaning fees.
 
-And also thanks to the platform's deep financial backing, they can run "illegal" businesses for some time,
+And also thanks to the platform's deep financial backing, they can run "illegal" businesses at huge losses for some time,
 before paying up their fines and lobbying for their businesses to be legal.
 
 Isn't that cool? When other people do it, they call them frauds. When the tech bros do it they call it progress.
@@ -75,9 +77,10 @@ Isn't that cool? When other people do it, they call them frauds. When the tech b
 Next, after setting up the illegal business, these platforms must now compete with well established players who
 play by the rules.
 
-But even then, they can't actually compete fairly, so they undercut their prices instead. Talk about dirty ass play.
+But even then, the platforms can't actually compete fairly, so they undercut their prices artificially instead.
+Talk about dirty ass play.
 
-As they got huge ass sum of investment from investors, they then use that money to undercut their own prices
+As they got huge sum of investment from investors, they could use that money to undercut their own prices
 to drive the competition out, even if it means they're taking losses.
 
 Thanks to their deep pocket, they can take on billion dollars of losses head on before they flinch,
@@ -114,7 +117,7 @@ Enshittification is when products become shittier and more expensive with time.
 Examples are different with each platform's business, but it generally increases the overall prices
 and is usually accompanied by worsening conditions of features.
 
-It's easy to spot one because you will hate it everytime it happens.
+It's easy to spot one because you will hate it every single time it happens to you.
 
 Examples for Netflix include:
 
@@ -122,14 +125,14 @@ Examples for Netflix include:
 
     Netflix's old mantra is it's ad-free. Now, the cheapest tier forces you to watch ads.
 
-- Sharing passwords
+- Actively banning sharing passwords
 
     Netflix's another old mantra is that you can somewhat shares it with friend,
     as long as it's not commercially or excessive.
 
     Now they invested millions to crack it down, leading to false positives and what not.
 
-- Video quality
+- Worse video quality
 
     We used to be able to select FHD with standard pricing. Now you gotta pay premium to get
     what you used to get the same resolution in 2010s when computers were ten times slower than now.
@@ -154,13 +157,18 @@ Examples for delivery apps include:
     Because customers are not aware of this back-of-the-house features, they blame the slow deliveries
     on drivers, tipping them less, or worse, rating them very low despite it being the platform's faults.
 
-- Dynamic pricing for both customers and drivers
+    The apps are also keen to use this opportunity to assign less fees to the drivers for these hooked orders.
+    The platform get the same revenues, get to pay the driver less, and the customers blame the drivers for delays.
 
-    Well behaving drivers get paid less because the platforms know they'll accept the orders anyway.
-    Difficult drivers get paid more to incentivize them to accept more orders.
+    Win-win situation, everyone.
+
+- Dynamic pricing for both customers and drivers
 
     Easy paying customers get charged more, because the platforms know you pay without comparing prices.
     While frugal customers get personalized discounts to facilitate the trades.
+
+    Well behaving drivers get paid less because the platforms know they'll accept the orders anyway.
+    Difficult drivers get paid more to incentivize them to accept more orders.
 
 - Customer support kept getting worse
 
@@ -190,7 +198,7 @@ facebook groups and confirm that with the workers' complaints every February.
 ### Worker exploitation: monitoring and psychological torture
 
 They also have this weird incentive system that actually pushes the riders to their limits,
-otherwise the system won’t assign orders to the riders.
+otherwise the system won’t assign orders to the riders. The system tracks driver performance quite invasively.
 
 Most riders feel like they could easily lose favor with the platforms if they reject some orders,
 and are afraid to lose their income so much so that they accepted unfavorable orders just to "please the AI".
@@ -199,7 +207,7 @@ This means that you, the gig worker, gotta be super obedient to these platforms 
 or 90% to qualify for their incentives, without which your income is below poverty line.
 
 That’s more strict than regular employer-employee dynamics. It creates a feeling where you are watched all the time
-by all-powerful malevolent overlord. It’s psychological warfare and torture like how Amazon treats their warehouse workers.
+by all-powerful malevolent overlord. **It’s psychological warfare and torture like how Amazon treats their warehouse workers**.
 
 ### Worker exploitation: unlimited sheep
 
@@ -207,21 +215,50 @@ And as our global economy tanks and will continue to tank, more and more workers
 
 Some poor dudes I know personally wait patiently for months to register as riders.
 
-The platforms can now treat current riders poorly because they have a very large number of people waiting in line
+The platforms can now treat current riders even more poorly because they have a very large number of people waiting
 to become new riders in the registration pipeline. You can see how this only strengthens the power imbalance and abuse.
+
+When drivers are this easily replaceable, the chance of these evil greedy platforms capitulating is virtually zero.
+This is why driver wages never rose. Never rise. And never will.
 
 # Summary
 
-Fuck these apps. Fuck the owners. Fuck the BBAs and MBAs who come originally up with such shallow and evil devices
-to exploit fellow human beings, and the stupid greedy fucks who copied the original ideas. The owner literally said the inspiration
-to jump into food delivery is "to get rich lol".
+Fuck these apps. Fuck the owners. Fuck the BBAs and MBAs who come originally up with such shallow and evil ploy to exploit fellow human beings,
+and the stupid greedy fucks who copied the original ideas and walking the stage like they're genius.
+
+The owner of some Thai app literally said the inspiration to jump into food delivery is "to get rich lol".
+They aren't your friends. They never intend to be. They are here to exploit and steal, and then
+go on forums to talk about how innovative or disruptive their businesses are when in fact anyone brave enough to break the law
+with a connection to VCs could pull this off.
+
+This is why even a Thai bank, SCB, could also launch their food delivery service.
+The business is easy if you have cash (or could sweet talk the investors) and are willing to break the laws and lobby later.
+SCB delivery app only died because they, a publicly owned bank, were not willing to break the laws enough to be competitive against the dominant players.
+
+Uber also couldn't compete with domestic apps, because they couldn't network (i.e. lobby) with the Thai establishment well enough to allow it.
+All this is to say our domestic players are even worse than the Americans. No one exploit Thais like a Thai, as the old saying goes.
+
+Fuck, I mean, if the business model is to pay criminally low delivery fees and keep pushing costs down, while ignoring all regulations,
+I bet anyone could do it if they have enough cash and friends. Even the food review website company could do it.
 
 These apps benefit no one but the owners. They can only survive thanks to the abundance of desperate gig workers,
-who were driven here from traditional employment thanks to wage stagnation.
+who were driven here from traditional employment thanks to wage stagnation. The system failed them, and the platforms exploited them.
 
-These apps destroy more opportunities than they create, and are happily selling themselves as benevolence job makers.
+These apps destroy more opportunities than they create, and are happily selling themselves as benevolent job makers.
+All of them have this noble company goals: make some where a better place, make living better, blah blah.
+I for one never once heard this goal being discussed when implementing new features.
+
 I bet the CEOs (whose faces are public) never had the courage to face the riders personally, that they never let the riders know where they live,
-or that they might never use their own app to order for their home.
+or even that they might never use their own app to order for their home. The coward owners of these platforms will fear their own workers, like Bezos
+fears his warehouse workers and Elon fearing his Tesla workers.
+
+I also bet the platforms will quickly replace human drivers with self-driving cars, bikes, or drones once that become "feasible" (not even legal).
+
+The world has become a grim place for human workers, and these platforms are the epitome of the problems. I wish more and more people will talk about this.
+
+Thank you.
+
+# Read more
 
 The keywords you can look up later are: “blitzscaling”, “enshitification”, “wage vs productivity”, “rentier economy”, “gig economy”, “reaganomics”, “technofeudalism”.
 

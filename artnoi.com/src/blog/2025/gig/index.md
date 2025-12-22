@@ -39,10 +39,14 @@ and their questionable blitzscaling strategies (which is usually initially illeg
 you probably came across this term.
 
 Blitzscaling is required for these middle man platforms to expand, otherwise they won't, because people generally hate middle men.
-So blitzscaling gotta be very aggressive and break some the current meta of the "gameplay" for it to be adopted.
+So blitzscaling gotta be very aggressive and break some the "meta" of the current gameplay, in order for it to succeed.
 
 All of these “platforms” (including e-commerce apps) follow the same shitty and evil principles of blitzscaling.
-So there're 2 parts about blitzscaling: (1) pioneering with illegal activities, and (2) making it super cheap.
+We can reduce the essense of blitzscaling into 2 parts:
+
+1. pioneering with illegal activities
+
+2. making the services super cheap (illegally cheap)
 
 ### Blitzscaling: illegal activities
 
@@ -61,21 +65,29 @@ Because they aren't regulated like real taxi companies or existing businesses, m
 had no recourse to the law, and the platforms are free to experiment and get away with their next high-tech evil shit
 such as surge pricing and dynamic pricing, or AirBnB's infamous cleaning fees.
 
+And also thanks to the platform's deep financial backing, they can run "illegal" businesses for some time,
+before paying up their fines and lobbying for their businesses to be legal.
+
+Isn't that cool? When other people do it, they call them frauds. When the tech bros do it they call it progress.
+
 ### Blitzscaling: undercutting prices
 
-Next, after setting up the illegal business, these platforms must now compete with well established players.
+Next, after setting up the illegal business, these platforms must now compete with well established players who
+play by the rules.
 
-But they can't actually compete, so they undercut their prices instead. Talk about dirty ass play.
+But even then, they can't actually compete fairly, so they undercut their prices instead. Talk about dirty ass play.
 
-These platforms got huge ass sum of investment from investors. They then use that money to undercut prices initially
-to drive the competition out. They can do that thanks to their deep pocket. And also thanks to the deep pocket,
-these platforms can run "illegal" businesses for some time, before paying their fines and lobbying for their businesses to be legal.
+As they got huge ass sum of investment from investors, they then use that money to undercut their own prices
+to drive the competition out, even if it means they're taking losses.
+
+Thanks to their deep pocket, they can take on billion dollars of losses head on before they flinch,
+or ask investors for more. Meanwhile, the smaller competitors are faced with existential crisis.
 
 With prolonged price undercuts, three things happen:
 
-- Competition dies or succumbs to the platform's will
+- Competition dies or capitulates
 
-    Now taxi drivers are joining these platforms. They initially fought.
+    Taxi drivers and PizzaHut are joining these platforms. They initially fought bitterly to no avail.
 
 - Customers become accustomed to or hooked to the services (i.e. became lazy)
 
@@ -91,9 +103,9 @@ With prolonged price undercuts, three things happen:
     This is the final nail in the coffin. Once other competitor/smaller platforms die, power is centralized
     in one or very few hands. This gives unprecendented power for these apps over drivers and restaurants.
 
-When these 3 things happen, the platform got unprecedented unchecked leverage against all stakeholders.
-
-And as they exploit that power, their services become more expensive and shittier, i.e. enshittification.
+When these 3 things happen, the platform got unprecedented unchecked leverage against all stakeholders,
+including the government. Now that the time is ripe to finally focus on profitability, they slowly introduce
+enshittification.
 
 ## Enshittification
 
@@ -101,6 +113,8 @@ Enshittification is when products become shittier and more expensive with time.
 
 Examples are different with each platform's business, but it generally increases the overall prices
 and is usually accompanied by worsening conditions of features.
+
+It's easy to spot one because you will hate it everytime it happens.
 
 Examples for Netflix include:
 

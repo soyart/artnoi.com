@@ -15,8 +15,8 @@ Since Thai libel and defamation cases are really aggressive (and without truth a
 let's make this post more generalized and about American global platforms which are already
 criticized and scrutinized by many people instead.
 
-Note: this is only about the services (and their owners/execs/MBAs/BBAs), not the many people working there
-who just follow orders like the poor programmer that I am.
+Note: this is only about the services (and their owners/execs/MBAs/BBAs), not the many people
+working there who just follow orders like the poor programmer that I am.
 
 ## Gig platforms
 
@@ -45,31 +45,45 @@ If you'd read about actual gig platform businesses like Uber, DoorDash, AirBnB, 
 and their questionable blitzscaling strategies (which is usually initially illegal or exists in the grey area),
 you probably came across this term.
 
-These platforms got huge ass sum of investment from investors. They then use that money to undercut prices initially
-to drive the competition out. They can do that thanks to their deep pocket. And also thanks to the deep pocket,
-these platforms can run "illegal" businesses for some time, before paying their fines and lobbying for their businesses to be legal.
-
-With price undercuts, 3 things happen:
-
-- Competition dies
-
-- Customers become accustomed to or hooked to the services (i.e. became lazy)
-
-- Market becomes mono/duopoly
-
-When these 3 things happen, the platform got unprecedented unchecked leverage against all stakeholders.
-
-Another aspect of blitzscaling is illegal activities. These blitzscaling platforms all started with illegal businesses.
-
+First aspect of blitzscaling is illegal activities. These blitzscaling platforms all started with illegal businesses.
 AirBnB and Uber were all illegal in all markets they operated in. They just kept doing it, until it became legal by lobbying.
 This is true everywhere you look: US, UK, Europe, Singapore, China, Thailand.
 
 Even today, these businesses still operate illegally or in the grey area of law. For example,
 AirBnB is still banned in NYC, LA, and SF, but of course you'll still find one in these cities.
 
-Because they aren't regulated like real taxi companies,
-most of the victims had no recourse to the law, and the platforms are mostly free to experiment with whatever is the next evil shit
-they plan to do.
+Because they aren't regulated like real taxi companies or existing businesses, most of the victims of arbitary pricings
+had no recourse to the law, and the platforms are free to experiment and get away with their next high-tech evil shit
+such as surge pricing and dynamic pricing.
+
+Next, after setting up the illegal business, these platforms must now compete with well established players.
+But they can't actually compete, so they undercut their prices instead. Talk about dirty ass play.
+
+These platforms got huge ass sum of investment from investors. They then use that money to undercut prices initially
+to drive the competition out. They can do that thanks to their deep pocket. And also thanks to the deep pocket,
+these platforms can run "illegal" businesses for some time, before paying their fines and lobbying for their businesses to be legal.
+
+With prolonged price undercuts, three things happen:
+
+- Competition dies or succumbs to the platform's will
+
+    Now taxi drivers are joining these platforms. They initially fought.
+
+- Customers become accustomed to or hooked to the services (i.e. became lazy)
+
+    These apps modified their customer behaviorally. It's surprisingly amazing how the human mind
+    is easily addicted to new, lazier lifestyles.
+
+    Now, food and grocery comes from phone, not streets, or restaurants, or shops, or pickups, or drive-thrus.
+    Going out for food now is a hassle, despite it being normal for all humans for the past thousands of year,
+    up until very recently.
+
+- Market becomes mono/duopoly
+
+    This is the final nail in the coffin. Once other competitor/smaller platforms die, power is centralized
+    in one or very few hands. This gives unprecendented power for these apps over drivers and restaurants.
+
+When these 3 things happen, the platform got unprecedented unchecked leverage against all stakeholders.
 
 And as they exploit that power, their services become more expensive and shittier, i.e. enshittification.
 

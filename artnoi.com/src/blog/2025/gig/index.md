@@ -24,11 +24,11 @@ Gig platforms are those that provide arena for gig economy activity, such as tax
 where the customer can order on the platform's app, and driver provides his own vehicle, fuel, and labor to drive
 the customer around. The customer pays the app, who then pays the driver after deducting the app's "fees".
 
-They are middle men providing "marketplace" for certain services. Their main function is to coordinate stuff
+They are middlemen providing "marketplace" for certain services. Their main function is to coordinate stuff
 with computers to make the orders happen, but they don't do much else other than charging the customer more for it.
 
-Like most middle men, they should be despised. But apparently, they were not, and customers seem to love them
-even now. This helped them expand, to the point of "disrupting" the traditional business model.
+Like most middlemen, they should be despised. But apparently, they aren't, and shallow customers seem to love them
+and see nothing wrong with all of this. This helped them expand, to the point of "disrupting" the traditional business model.
 
 Now, how did they expand? It's called blitzscaling.
 
@@ -38,36 +38,37 @@ If you'd read about actual gig platform businesses like Uber, DoorDash, AirBnB, 
 and their questionable blitzscaling strategies (which is usually initially illegal or exists in the grey area),
 you probably came across this term.
 
-Blitzscaling is required for these middle man platforms to expand, otherwise they won't, because people generally hate middle men.
+Blitzscaling is required for these middleman platforms to expand, otherwise they won't, because people generally hate middlemen.
 So blitzscaling gotta be very aggressive and break some the "meta" of the current gameplay, in order for it to succeed.
 
-All of these “platforms” (including e-commerce apps) follow the same shitty and evil principles of blitzscaling.
-We can reduce the essense of blitzscaling into 2 parts:
+All of these platforms (including e-commerce apps) follow the same shitty and evil principles of blitzscaling.
+We can reduce the essence of blitzscaling into 2 core features:
 
 1. pioneering with illegal activities
 
-2. making the services super cheap (illegally cheap)
+2. very cheap services initially (illegally cheap)
 
 These 2 core ideas go hand in hand. They feed each other.
 
 ### Blitzscaling: illegal activities
 
 First aspect of blitzscaling is illegal activities. These blitzscaling platforms all started with illegal businesses.
-AirBnB and Uber were all illegal in all markets they operated in. They just kept doing it, until it became legal by lobbying.
+
+AirBnB and Uber started out illegal in all markets they operated in. But they kept doing it, until it became legal by lobbying.
 This is true everywhere you look: US, UK, Europe, Singapore, China, Thailand.
 
-It does this by first "pioneering" innovations by breaking the law (and thus becoming the first mover),
+It does this by first "pioneering" innovations by breaking the law (and thus acquiring the first mover advantages),
 and make the service prices very cheap by undercuting prices with illegal operations (i.e. not paying minimum wages,
-not providing insurance, etc).
+not providing insurance, or other monopolistic practices).
 
 Even today, these businesses still operate illegally or in the grey area of law. For example,
 AirBnB is still banned in NYC, LA, and SF, but of course you'll still find one in these cities.
 
-Because they aren't regulated like real taxi companies or existing businesses, most of the victims of arbitary pricings
-had no recourse to the law, and the platforms are free to experiment and get away with their next high-tech evil shit
+Because they aren't regulated like real taxi companies or existing businesses, most of the victims (e.g. of arbitary pricings)
+had no recourse to the law, and the platforms are free to experiment and get away with their next-gen high-tech evil shit unpunished,
 such as surge pricing and dynamic pricing, or AirBnB's infamous cleaning fees.
 
-And also thanks to the platform's deep financial backing, they can run "illegal" businesses at huge losses for some time,
+And also thanks to the platform's deep financial backing, they can run their illegal businesses at huge losses for some time,
 before paying up their fines and lobbying for their businesses to be legal.
 
 Isn't that cool? When other people do it, they call them frauds. When the tech bros do it they call it progress.
@@ -77,20 +78,34 @@ Isn't that cool? When other people do it, they call them frauds. When the tech b
 Next, after setting up the illegal business, these platforms must now compete with well established players who
 play by the rules.
 
-But even then, the platforms can't actually compete fairly, so they undercut their prices artificially instead.
-Talk about dirty ass play.
+But even then, the platforms can't actually compete fairly initially because they're new to the market,
+so they undercut their prices artificially instead. Now suddenly there's an influx of customers. Talk about dirty ass play.
 
 As they got huge sum of investment from investors, they could use that money to undercut their own prices
-to drive the competition out, even if it means they're taking losses.
+to drive the competition out, even if it means they're themselves taking losses.
 
 Thanks to their deep pocket, they can take on billion dollars of losses head on before they flinch,
 or ask investors for more. Meanwhile, the smaller competitors are faced with existential crisis.
+
+It's war of attrition, like Russia and Ukraine. The scale and reach of these platforms mean that they'll surely
+win with time and no regulation.
 
 With prolonged price undercuts, three things happen:
 
 - Competition dies or capitulates
 
     Taxi drivers and PizzaHut are joining these platforms. They initially fought bitterly to no avail.
+
+    > In the case of Thailand and other corruptible countries, regulators also capitulate.
+    >
+    > In Thailand, platforms grew so much that Grab was allowed their own designated
+    > "pick up spots" at Thai airports despite the existing airport taxi cartel/mafia vehemently opposing it.
+    >
+    > The Thai government also keeps postponing the enforcement of vehicle registration laws that prohibits personal
+    > vehicles from being used with these platforms. It's been almost a decade since these platforms first came here,
+    > yet, this has not been enforced.
+    >
+    > No changes about labor law tweaks were made, let alone seriously discussed about.
 
 - Customers become accustomed to or hooked to the services (i.e. became lazy)
 
@@ -105,6 +120,9 @@ With prolonged price undercuts, three things happen:
 
     This is the final nail in the coffin. Once other competitor/smaller platforms die, power is centralized
     in one or very few hands. This gives unprecendented power for these apps over drivers and restaurants.
+
+    If you coupled this with ongoing economic issues facing the working class, it seems we got ourselves
+    a new class of overlords: the tech bro overlords.
 
 When these 3 things happen, the platform got unprecedented unchecked leverage against all stakeholders,
 including the government. Now that the time is ripe to finally focus on profitability, they slowly introduce
@@ -174,6 +192,12 @@ Examples for delivery apps include:
 
     We were able to get cash refunds. Now it's credit refunds. We had call center, but now they replaced it with chatbots.
     For most people, you won't get human on the line unless you can prove that the situation is really grim, like maybe thefts.
+
+When people talk about enshittification, they usually talk from a customer perspective. But enshittification encompasses much more
+than that, especially in platform products with multiple stakeholders like the gig work platforms.
+
+In the case of food delivery, there're 3 stakeholders: the restaurants, the drivers, and the customers. Enshittification affects all 3,
+but it's their execution on drivers that's most concerning and evil because it's outright worker exploitation.
 
 ## Worker exploitation
 

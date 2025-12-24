@@ -2,7 +2,7 @@ Dec 22, 2025
 
 # Fuck gig platforms
 
-I'm working at a company whose primary product is to provide food delivery with gig workers.
+I'm at a company whose primary product food delivery app where drivers are gig workers.
 
 I've been here for 2 years now, and what I see here cements in me with
 what other people have been saying out about such companies and their services.

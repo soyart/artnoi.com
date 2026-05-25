@@ -2,12 +2,12 @@ Dec 22, 2025
 
 # Fuck gig platforms
 
-I'm at a company whose primary product food delivery app where drivers are gig workers.
+I'm working at a company whose primary product is food delivery platform where drivers are gig workers.
 
-I've been here for 2 years now, and what I see here cements in me with
+I've been here since Feb 2024, and what I see here cements in me with
 what other people have been saying out about such companies and their services.
 
-Recently, an ex-exec was denied entry into a Thai left-leaning (center-left?) political party,
+Recently, an ex-exec from the companu was denied entry into a Thai left-leaning (center-left?) political party,
 and I engaged with some people online who asked me why I hold such strong feelings against the exec,
 hence this post.
 

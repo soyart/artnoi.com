@@ -28,6 +28,23 @@ lsof -n -i TCP:6379;
 lsof -i :6379;
 ```
 
+## Shell `for` ranges over some sequence
+
+```sh
+# Using `seq(1)`
+for i in $(seq 2 10); do
+    echo $i;
+done # Prints range [2..10]
+
+# Bash does have builtin `i++`
+# The for ((expr1;expr2;expr3)); construct works just like for (expr1;expr2;expr3) in C and similar languages,
+# and like other ((expr)) cases, Bash treats them as arithmetic.
+END=5
+for ((i=1;i<=END;i++)); do
+    echo $i
+done # Prints range [1..5]
+```
+
 ## POSIX shell parameter expansion
 
 People should know parameter expansion to avoid invoking (abusing) `cat(1)`,

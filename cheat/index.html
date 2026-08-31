@@ -7,6 +7,18 @@ lsof -n -i TCP:6379;
 
 # GNU/Linux
 lsof -i :6379;
+</code></pre><h2 id=shell-for-ranges-over-some-sequence>Shell <code>for</code> ranges over some sequence</h2><pre><code class=language-sh># Using `seq(1)`
+for i in $(seq 2 10); do
+    echo $i;
+done # Prints range [2..10]
+
+# Bash does have builtin `i++`
+# The for ((expr1;expr2;expr3)); construct works just like for (expr1;expr2;expr3) in C and similar languages,
+# and like other ((expr)) cases, Bash treats them as arithmetic.
+END=5
+for ((i=1;i&lt;=END;i++)); do
+    echo $i
+done # Prints range [1..5]
 </code></pre><h2 id=posix-shell-parameter-expansion>POSIX shell parameter expansion</h2><p>People should know parameter expansion to avoid invoking (abusing) <code>cat(1)</code>,
 <code>awk(1)</code>, <code>sed(1)</code>, and <code>grep(1)</code>.</p><p>However, when people use shell parameter expansion, they use non-POSIX syntax,
 i.e. <code>bash</code>-specific syntax, which is not portable.</p><blockquote><p>The examples are for POSIX-compliant shell like UNIX <code>sh(1)</code> and <code>dash(1)</code>.
